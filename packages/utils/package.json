@@ -1,5 +1,5 @@
 {
-    "name": "utils",
+    "name": "@zold/utils",
     "version": "1.0.0",
     "description": "",
     "main": "dist/index",
@@ -21,6 +21,9 @@
             "src/index.ts"
         ],
         "dts":true
+    },
+    "publishConfig": {
+        "access": "public"
     }
 
 }

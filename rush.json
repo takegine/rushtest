@@ -400,13 +400,13 @@
    */
   "projects": [
     {
-      "packageName": "utils",
+      "packageName": "@zold/utils",
       "projectFolder": "packages/utils",
       "reviewCategory": "tools",
       "shouldPublish": true
     },
     {
-      "packageName": "core",
+      "packageName": "@zold/core",
       "projectFolder": "packages/core",
       "reviewCategory": "tools",
       "shouldPublish": true

@@ -1,4 +1,4 @@
-import { log } from 'utils'
+import { log } from '@zold/utils'
 
 const core = () => {
     console.log('core change')

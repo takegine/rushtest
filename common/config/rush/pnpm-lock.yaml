@@ -7,10 +7,10 @@ importers:
 
   ../../packages/core:
     specifiers:
+      '@zold/utils': workspace:*
       typescript: ~4.8.3
-      utils: workspace:*
     dependencies:
-      utils: link:../utils
+      '@zold/utils': link:../utils
     devDependencies:
       typescript: 4.8.3
 
