@@ -1,0 +1,17 @@
+{
+  "name": "@zold/core",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@zold/core_v1.0.1",
+      "date": "Sat, 10 Sep 2022 11:53:37 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@zold/utils\" to `1.0.1`"
+          }
+        ]
+      }
+    }
+  ]
+}

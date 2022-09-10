@@ -1,0 +1,17 @@
+{
+  "name": "@zold/utils",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@zold/utils_v1.0.1",
+      "date": "Sat, 10 Sep 2022 11:53:37 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "test change01"
+          }
+        ]
+      }
+    }
+  ]
+}
