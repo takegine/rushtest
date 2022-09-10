@@ -1,0 +1,8 @@
+{
+    "include": ["packages"],
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "esnext",
+        "allowSyntheticDefaultImports":true
+    }
+}

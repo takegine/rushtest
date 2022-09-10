@@ -1,0 +1,26 @@
+{
+    "name": "utils",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index",
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "npmlog": "~6.0.2",
+        "@types/npmlog": "~4.1.4"
+    },
+    "devDependencies": {
+        "typescript": "~4.8.3",
+        "@types/node": "~18.7.16"
+    },
+    "scripts": {
+        "build": "tsup"
+    },
+    "tsup": {
+        "entry": [
+            "src/index.ts"
+        ],
+        "dts":true
+    }
+
+}

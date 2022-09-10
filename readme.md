@@ -10,3 +10,9 @@
 ## 多包 mono repo 
 * npm/yarn  --  lerna
 * pnpm -- rush 
+
+
+## 使用工具
+* [pnpm](https://pnpm.io/zh/)
+* [rush](rushjs.io/zh-cn)
+* [tsup](https://tsup.egoist.dev/) 

@@ -1,0 +1,24 @@
+{
+    "name": "core",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index",
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "~4.8.3"
+    },
+    "dependencies": {
+      "utils": "workspace:*"
+    },
+    "scripts": {
+      "build":"tsup",
+      "test":"node -e \" require('./dist/index').default()\""
+    },
+    "tsup":{
+      "entry":[
+        "src/index.ts"
+      ],
+      "dts": true
+    }
+}
